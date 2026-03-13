@@ -12,7 +12,9 @@ int add(int a, int b) {
 } 
 
 int main() {
-  cout << "Witaj w naszym programie do dzielenia i mnożenia!" << endl;
+
+  cout << "Witaj w naszym programie do dodawania, dzielenia i mnożenia!!" <<  endl;
+
 
   cout << "2 * 3 = " << multiply(2, 3) << endl;
 
